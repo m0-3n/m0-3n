@@ -1,4 +1,4 @@
-### Why are you here? 😈
+### Why are you here?
 
 >I do these:
 

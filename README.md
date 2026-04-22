@@ -2,7 +2,7 @@
 
 >I do these:
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,flask,github,linux,sqlite,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wireshark,autopsy,splunk,py,c,cpp,java,html,css,flask,github,linux,sqlite,vscode,mysql)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=m0-3n&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=m0-3n&theme=dark&hide_border=false)<br/>
